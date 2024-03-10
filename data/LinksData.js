@@ -132,6 +132,20 @@ const webLinks = [
         icon: '/github-fill.svg',
         on: true
     },
+	{
+        title: 'SketchfabDownloader (Models Only)',
+        url: 'https://openuserjs.org/scripts/PiratesCave/SketchfabDownloader_(Models_Only)',
+        type: 'content',
+        icon: '/script.png',
+        on: true
+    },
+	{
+        title: 'SketchfabDownloader (Textures Only)',
+        url: 'https://openuserjs.org/scripts/PiratesCave/SketchfabDownloader_(Textures_Only)',
+        type: 'content',
+        icon: '/script.png',
+        on: true
+    },
     // Install section
 	/*
     {
