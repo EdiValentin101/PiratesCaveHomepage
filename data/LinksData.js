@@ -32,7 +32,7 @@ const webLinks = [
 	*/
     {
         title: 'Github',
-        url: 'https://github.com/realvjy',
+        url: 'https://github.com/PiratesCave',
         type: 'social',
         icon: '/github.svg',
         on: true
@@ -114,7 +114,7 @@ const webLinks = [
         title: 'Support Revetix\n(Original Developer)',
         url: 'https://github.com/realvjy/nxt-lnk/generate',
         type: 'donate',
-        icon: '/revetix.svg',
+        icon: '/revetix.jpg',
         on: true
     },
 	/*
