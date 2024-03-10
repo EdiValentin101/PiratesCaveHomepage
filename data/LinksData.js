@@ -111,10 +111,17 @@ const webLinks = [
 	*/
 	// Donate section
 	    {
-        title: "Support Revetix      (Original Developer)",
+        title: "Support Revetix (Original Sketchfab Ripper Developer)",
         url: 'https://www.paypal.com/donate/?hosted_button_id=78TUPKHTF3KYU',
         type: 'donate',
         icon: '/revetix2.png',
+        on: true
+    },
+	{
+        title: "Support Pirate's Cave Content",
+        url: 'https://ko-fi.com/cgfantasy/tip',
+        type: 'donate',
+        icon: '/ko-fi.png',
         on: true
     },
 	// Content section
