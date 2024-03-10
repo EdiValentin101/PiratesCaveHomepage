@@ -1,20 +1,20 @@
 // date: 1 Aug, 2022
 const bioData = [
     {
-        name: 'nxt lnk',
-        username: 'nxtlnk.vercel.app',
-        url: 'https://nxtlnk.vercel.app',
+        name: 'Pirate''s Cave',
+        username: '',
+        url: '',
         titleImg: true,
         avatar: '/avatar.png',
-        nftAvatar: true,
-        description: 'Custom bio links for creatives who love coding. Made this first to use for my own weblinks vjy.me/lnk. ',
+        nftAvatar: false,
+        description: 'Pirate''s Cave started as a loud & clear response to all the scammers who stole our FREE content & started sharing it at a PRICE. We''ve recently joined the scene 3 years ago and our journey had more downs than it ever had ups, but we couldn''t turn our backs at the repulsive injustice so we came back.',
         descShow: true,
-        subdesc: 'Use this template and deploy on vercel for free',
+        subdesc: 'Our main social media links',
         subdescShow: true,
         newProductUrl: 'https://3dicons.co',
-        newProduct: true,
-        author: 'realvjy',
-        authorURL: 'https://twitter.com/realvjy',
+        newProduct: false,
+        author: 'HoReyModZ',
+        authorURL: '',
         footerText: 'made by'
     },
 ];

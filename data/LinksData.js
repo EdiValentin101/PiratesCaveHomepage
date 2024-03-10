@@ -2,13 +2,13 @@
 const webLinks = [
     // All social profile
     {
-        title: 'Twitter',
-        url: 'https://twitter.com/realvjy',
+        title: 'Discord',
+        url: 'https://discord.com/invite/YUDVR2eQTJ',
         type: 'social',
-        icon: '/twitter.svg',
+        icon: '/discord.svg',
         on: true
     },
-    {
+    /*{
         title: 'Instagram',
         url: 'https://instagram.com/realvjy',
         type: 'social',
@@ -29,6 +29,7 @@ const webLinks = [
         icon: '/medium.svg',
         on: false
     },
+	*/
     {
         title: 'Github',
         url: 'https://github.com/realvjy',
@@ -36,6 +37,7 @@ const webLinks = [
         icon: '/github.svg',
         on: true
     },
+	/*
     {
         title: 'Youtube',
         url: 'https://youtube.com/realvjy',
@@ -106,12 +108,13 @@ const webLinks = [
         icon: '/opensea.svg',
         on: false
     },
+	*/
     // Install section
     {
-        title: 'Use this template',
+        title: 'Support Revetix (Original Developer)',
         url: 'https://github.com/realvjy/nxt-lnk/generate',
-        type: 'install',
-        icon: '/use.png',
+        type: 'donate',
+        icon: '/paypal.svg',
         on: true
     },
     {
