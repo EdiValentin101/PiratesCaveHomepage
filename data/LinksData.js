@@ -5,7 +5,7 @@ const webLinks = [
         title: 'Discord',
         url: 'https://discord.com/invite/YUDVR2eQTJ',
         type: 'social',
-        icon: '/discord.png',
+        icon: '/discord.svg',
         on: true
     },
     /*{
