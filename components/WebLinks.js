@@ -53,6 +53,11 @@ const Links = () => {
   const install = allLinks.filter((el) => {
     return el.type === "install" && el.on
   });
+  
+    // Get data for install section
+  const install = allLinks.filter((el) => {
+    return el.type === "donate" && el.on
+  });
 
   // Get data for nfts
   const nfts = allLinks.filter((el) => {
@@ -121,6 +126,26 @@ const Links = () => {
                 </div>
               </LinkSection>
               {/* Social Icon */}
+			  
+			  {/* Donate Section */}
+              {
+                donate.length > 0 ?
+                    <LinkSection>
+                      <h3>{donate[0].type}</h3>
+                      {
+                        donate.map((i) => {
+                          return (
+                              <a href={i.url} key={i.title} target="_blank" rel="noreferrer">
+                                <LinkBox>
+                                  <LinkTitle><img src={i.icon} style={{ filter: 'var(--img)' }} /> {i.title}</LinkTitle> <NewUp />
+                                </LinkBox>
+                              </a>
+                          )
+                        })
+                      }
+                    </LinkSection> : ''
+              }
+              {/* End Donate Section */}
 
               {/* Install Section */}
               {
