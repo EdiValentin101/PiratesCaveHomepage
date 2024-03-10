@@ -5,7 +5,7 @@ const webLinks = [
         title: 'Discord',
         url: 'https://discord.com/invite/YUDVR2eQTJ',
         type: 'social',
-        icon: '/discord.svg',
+        icon: '/discord.png',
         on: true
     },
     /*{
@@ -111,12 +111,13 @@ const webLinks = [
 	*/
     // Install section
     {
-        title: 'Support Revetix (Original Developer)',
+        title: 'Support Revetix\n(Original Developer)',
         url: 'https://github.com/realvjy/nxt-lnk/generate',
         type: 'donate',
-        icon: '/use.png',
+        icon: '/revetix.png',
         on: true
     },
+	/*
     {
         title: 'Deploy on Vercel',
         url: 'https://vercel.com/import/git?s=https://github.com/realvjy/nxt-lnk',
@@ -131,14 +132,15 @@ const webLinks = [
         icon: '/doc.png',
         on: true
     },
+	*/
     {
         title: 'Github',
-        url: 'https://github.com/realvjy/nxt-lnk',
+        url: 'https://github.com/PiratesCave?tab=repositories',
         type: 'install',
         icon: '/github-fill.svg',
         on: true
     },
-
+    /*
     {
         title: 'Buy Me a Coffee',
         url: 'https://www.buymeacoffee.com/realvjy',
@@ -162,6 +164,7 @@ const webLinks = [
         icon: '/vjy.png',
         on: true
     },
+	*/
 ];
 
 export default webLinks;
