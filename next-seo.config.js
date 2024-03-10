@@ -2,11 +2,12 @@ export default {
     openGraph: {
         type: 'website',
         locale: 'en_IE',
-        title: 'next lnks by realvjy',
-        url: 'https://vjy.me',
-        description: 'Custom bio links for creatives who love coding. Made this first to use for my own weblinks vjy.me/lnk.',
+        title: "Pirate's Cave by HoReyModZ",
+        url: 'https://piratescave.netlify.app',
+        description: "Pirate's Cave started as a loud & clear response to all the scammers who stole our FREE content & started sharing it at a PRICE. We've recently joined the scene 3 years ago and our journey had more downs than it ever had ups, but we couldn't turn our backs at the repulsive injustice so we came back.",
         locale: 'en_EN',
-        keywords: 'designer, product designer, illustrator, indian designer, vijay verma, realvjy, illlustrations, indian illustrator, ui designer india, sushi design system, zomato designer, 3dicons, uiprint, vijay realvjy, indian ui designer, design india, overlayz, nft art',
+        keywords: "sketchfab, sketchfab ripper, sketchfab models, how to rip sketchfab, how to download sketchfab, entirely for free, sketchfab ripping, sketchfab rip, rip sketchfab, download sketchfab, free to download, download from sketchfab, sketchfab download, models sketchfab, how to download sketchfab models for free, how to rip sketchfab models for free, free script, useful resources, support servers, click to download, against scammers, 3d model, 3d models, tampermonkey script, content",
+		/*
         images: [
             {
                 width: 1200,
@@ -14,11 +15,14 @@ export default {
                 url: `https://vjy.me/preview.jpg`,
             },
         ],
-        site_name: 'realvjy',
+		*/
+        site_name: "Pirate's Cave Homepage",
     },
+	/*
     twitter: {
         handle: '@realvjy',
         site: 'vjy.me',
         cardType: 'summary_large_image',
     },
+	*/
 };
