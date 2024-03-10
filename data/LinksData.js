@@ -111,7 +111,7 @@ const webLinks = [
 	*/
 	// Donate section
 	    {
-        title: "Support Revetix (Original Sketchfab Ripper Developer)",
+        title: "Support Revetix (OG DEV)",
         url: 'https://www.paypal.com/donate/?hosted_button_id=78TUPKHTF3KYU',
         type: 'donate',
         icon: '/revetix.png',
