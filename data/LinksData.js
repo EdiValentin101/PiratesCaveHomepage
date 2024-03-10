@@ -114,7 +114,7 @@ const webLinks = [
         title: "Support Revetix (Original Sketchfab Ripper Developer)",
         url: 'https://www.paypal.com/donate/?hosted_button_id=78TUPKHTF3KYU',
         type: 'donate',
-        icon: '/revetix2.png',
+        icon: '/revetix.png',
         on: true
     },
 	{
@@ -135,10 +135,10 @@ const webLinks = [
     // Install section
 	/*
     {
-        title: 'Support Revetix\n(Original Developer)',
+        title: 'Support Revetix (Original Developer)',
         url: 'https://github.com/realvjy/nxt-lnk/generate',
         type: 'donate',
-        icon: '/revetix2.png',
+        icon: '/revetix.png',
         on: true
     },
 	
