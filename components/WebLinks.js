@@ -54,8 +54,8 @@ const Links = () => {
     return el.type === "install" && el.on
   });
   
-    // Get data for install section
-  const install = allLinks.filter((el) => {
+    // Get data for donate section
+  const donate = allLinks.filter((el) => {
     return el.type === "donate" && el.on
   });
 
