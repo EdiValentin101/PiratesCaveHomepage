@@ -111,8 +111,9 @@ const webLinks = [
 	*/
 	// Donate section
 	    {
-        title: 'Support Revetix\r\n(Original Developer)',
-        url: 'https://github.com/realvjy/nxt-lnk/generate',
+        title: "Support Revetix
+		(Original Developer)",
+        url: 'https://www.paypal.com/donate/?hosted_button_id=78TUPKHTF3KYU',
         type: 'donate',
         icon: '/revetix2.png',
         on: true

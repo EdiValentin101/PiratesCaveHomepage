@@ -151,6 +151,26 @@ const Links = () => {
                     </LinkSection> : ''
               }
               {/* End Donate Section */}
+			  
+			  {/* Content Section */}
+              {
+                content.length > 0 ?
+                    <LinkSection>
+                      <h3>{content[0].type}</h3>
+                      {
+                        content.map((i) => {
+                          return (
+                              <a href={i.url} key={i.title} target="_blank" rel="noreferrer">
+                                <LinkBox>
+                                  <LinkTitle><img src={i.icon} style={{ filter: 'var(--img)' }} /> {i.title}</LinkTitle> <NewUp />
+                                </LinkBox>
+                              </a>
+                          )
+                        })
+                      }
+                    </LinkSection> : ''
+              }
+              {/* End Content Section */}
 
               {/* Install Section */}
               {
