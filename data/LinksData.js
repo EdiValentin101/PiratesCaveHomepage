@@ -114,7 +114,7 @@ const webLinks = [
         title: 'Support Revetix (Original Developer)',
         url: 'https://github.com/realvjy/nxt-lnk/generate',
         type: 'donate',
-        icon: '/paypal.svg',
+        icon: '/use.png',
         on: true
     },
     {
