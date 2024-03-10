@@ -48,15 +48,20 @@ const Links = () => {
   const social = allLinks.filter((el) => {
     return el.type === "social" && el.on
   });
+  
+      // Get data for donate section
+  const donate = allLinks.filter((el) => {
+    return el.type === "donate" && el.on
+  });
+  
+      // Get data for content section
+  const content = allLinks.filter((el) => {
+    return el.type === "content" && el.on
+  });
 
   // Get data for install section
   const install = allLinks.filter((el) => {
     return el.type === "install" && el.on
-  });
-  
-    // Get data for donate section
-  const donate = allLinks.filter((el) => {
-    return el.type === "donate" && el.on
   });
 
   // Get data for nfts

@@ -109,7 +109,24 @@ const webLinks = [
         on: false
     },
 	*/
+	// Donate section
+	    {
+        title: 'Support Revetix\r\n(Original Developer)',
+        url: 'https://github.com/realvjy/nxt-lnk/generate',
+        type: 'donate',
+        icon: '/revetix2.png',
+        on: true
+    },
+	// Content section
+	{
+        title: 'Github',
+        url: 'https://github.com/PiratesCave?tab=repositories',
+        type: 'content',
+        icon: '/github-fill.svg',
+        on: true
+    },
     // Install section
+	/*
     {
         title: 'Support Revetix\n(Original Developer)',
         url: 'https://github.com/realvjy/nxt-lnk/generate',
@@ -117,7 +134,7 @@ const webLinks = [
         icon: '/revetix2.png',
         on: true
     },
-	/*
+	
     {
         title: 'Deploy on Vercel',
         url: 'https://vercel.com/import/git?s=https://github.com/realvjy/nxt-lnk',
@@ -132,7 +149,6 @@ const webLinks = [
         icon: '/doc.png',
         on: true
     },
-	*/
     {
         title: 'Github',
         url: 'https://github.com/PiratesCave?tab=repositories',
@@ -140,7 +156,6 @@ const webLinks = [
         icon: '/github-fill.svg',
         on: true
     },
-    /*
     {
         title: 'Buy Me a Coffee',
         url: 'https://www.buymeacoffee.com/realvjy',
