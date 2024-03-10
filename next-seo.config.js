@@ -11,7 +11,7 @@ export default {
             {
                 width: 1200,
                 height: 630,
-                url: `/public/PiratesCaveBanner.png`,
+                url: `/PiratesCaveBanner.png`,
             },
         ],
         site_name: "Pirate's Cave Homepage",
