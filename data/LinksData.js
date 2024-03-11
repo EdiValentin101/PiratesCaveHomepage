@@ -136,7 +136,7 @@ const webLinks = [
         title: 'Github',
         url: 'https://github.com/PiratesCave?tab=repositories',
         type: 'content',
-        icon: '/github-fill.svg',
+        icon: '/github-fill.png',
         on: true
     },
 	{
