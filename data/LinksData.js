@@ -128,7 +128,7 @@ const webLinks = [
         title: "Support Pirate's Cave Content",
         url: 'https://www.patreon.com/piratescave/membership',
         type: 'donate',
-        icon: '/patreon.svg',
+        icon: '/patreon.png',
         on: true
     },
 	// Content section
