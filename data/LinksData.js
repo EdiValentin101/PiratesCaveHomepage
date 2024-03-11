@@ -140,14 +140,14 @@ const webLinks = [
         on: false
     },
 	{
-        title: 'SfDownloader (Models Only)',
+        title: 'Sketchfab Script (Models Only)',
         url: 'https://openuserjs.org/scripts/PiratesCave/SketchfabDownloader_(Models_Only)',
         type: 'content',
         icon: '/script.png',
         on: true
     },
 	{
-        title: 'SfDownloader (Textures Only)',
+        title: 'Sketchfab Script (Textures Only)',
         url: 'https://openuserjs.org/scripts/PiratesCave/SketchfabDownloader_(Textures_Only)',
         type: 'content',
         icon: '/script.png',
