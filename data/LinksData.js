@@ -137,17 +137,17 @@ const webLinks = [
         url: 'https://github.com/PiratesCave?tab=repositories',
         type: 'content',
         icon: '/github-fill.png',
-        on: true
+        on: false
     },
 	{
-        title: 'SketchfabDownloader (Models Only)',
+        title: 'SfDownloader (Models Only)',
         url: 'https://openuserjs.org/scripts/PiratesCave/SketchfabDownloader_(Models_Only)',
         type: 'content',
         icon: '/script.png',
         on: true
     },
 	{
-        title: 'SketchfabDownloader (Textures Only)',
+        title: 'SfDownloader (Textures Only)',
         url: 'https://openuserjs.org/scripts/PiratesCave/SketchfabDownloader_(Textures_Only)',
         type: 'content',
         icon: '/script.png',
