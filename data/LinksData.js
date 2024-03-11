@@ -119,7 +119,7 @@ const webLinks = [
     },
 	{
         title: "Support Pirate's Cave Content",
-        url: 'https://ko-fi.com/cgfantasy/tip',
+        url: 'https://ko-fi.com/piratescave/tip',
         type: 'donate',
         icon: '/ko-fi.png',
         on: true
