@@ -124,6 +124,13 @@ const webLinks = [
         icon: '/ko-fi.png',
         on: true
     },
+	{
+        title: "Support Pirate's Cave Content",
+        url: 'https://www.patreon.com/piratescave/membership',
+        type: 'donate',
+        icon: '/patreon.svg',
+        on: true
+    },
 	// Content section
 	{
         title: 'Github',
