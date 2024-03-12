@@ -118,14 +118,14 @@ const webLinks = [
         on: true
     },
 	{
-        title: "Support Pirate's Cave Content",
+        title: "Support Pirate's Cave Services",
         url: 'https://ko-fi.com/piratescave/tip',
         type: 'donate',
         icon: '/ko-fi.png',
         on: true
     },
 	{
-        title: "Support Pirate's Cave Content",
+        title: "Support Pirate's Cave Services",
         url: 'https://www.patreon.com/piratescave/membership',
         type: 'donate',
         icon: '/patreon.png',
