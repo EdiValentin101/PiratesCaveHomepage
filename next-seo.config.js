@@ -17,8 +17,8 @@ export default {
         site_name: "Pirate's Cave Homepage",
     },
     twitter: {
-        handle: '@realvjy',
-        site: 'vjy.me',
+        handle: '',
+        site: 'piratescave.netlify.app',
         cardType: 'summary_large_image',
     },
 };
