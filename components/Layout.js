@@ -17,7 +17,6 @@ const Main = styled.main`
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-  filter: blur(10px);
   @media screen and (max-width: ${({ theme }) => theme.deviceSize.tablet}) {
     background-size: 250%;
     background-position: -50vh 30vh;
