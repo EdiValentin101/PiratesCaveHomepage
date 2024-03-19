@@ -14,7 +14,7 @@ export default function Layout({ children }) {
 const Main = styled.main`
   min-height: 100vh;
   background: url('/bg.png') no-repeat;
-  background-size: cover;
+  background-size: 150%;
   background-position: center;
   background-attachment: fixed;
   @media screen and (max-width: ${({ theme }) => theme.deviceSize.tablet}) {
