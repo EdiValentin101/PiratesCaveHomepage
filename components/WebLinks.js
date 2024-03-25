@@ -68,11 +68,6 @@ const Links = () => {
   const nfts = allLinks.filter((el) => {
     return el.type === "nft" && el.on
   });
-  
-  // Get data for news section
-  const others = allLinks.filter((el) => {
-    return el.type === "news" && el.on
-  });
 
   // Get data for other section
   const others = allLinks.filter((el) => {
@@ -162,6 +157,18 @@ const Links = () => {
                 content.length > 0 ?
                     <LinkSection>
                       <h3>{content[0].type}</h3>
+					  {/* BioData.js > newProduct == true */}
+                      {/* New Section will render once newProduct == true */}
+                      {(newProduct) ? <NewSection>
+                        <a href={newProductUrl} target="_blank" rel="noreferrer">
+                          <img
+                              src={'/newproduct.png'}
+                              className="newproduct"
+                          />
+                        </a>
+                      </NewSection> : ''
+                      }
+                      {/* End Biodata.js, You can move this section anywhere */}
                       {
                         content.map((i) => {
                           return (
@@ -217,38 +224,6 @@ const Links = () => {
                     : ''
               }
               {/* End NFT Section */}
-			  
-			  {/* News Section */}
-              {
-                news.length > 0 ?
-                    <LinkSection>
-                      <h3>{news[0].type}</h3>
-                      {/* BioData.js > newProduct == true */}
-                      {/* New Section will render once newProduct == true */}
-                      {(newProduct) ? <NewSection>
-                        <a href={newProductUrl} target="_blank" rel="noreferrer">
-                          <img
-                              src={'/newproduct.png'}
-                              className="newproduct"
-                          />
-                        </a>
-                      </NewSection> : ''
-                      }
-                      {/* End Biodata.js, You can move this section anywhere */}
-                      {
-                        news.map((i) => {
-                          return (
-                              <a href={i.url} key={i.title} target="_blank" rel="noreferrer">
-                                <LinkBox>
-                                  <LinkTitle><img src={i.icon} /> {i.title}</LinkTitle> <NewUp />
-                                </LinkBox>
-                              </a>
-                          )
-                        })
-                      }
-                    </LinkSection> : ''
-              }
-              {/* End News Section */}
 
               {/* Other Section */}
               {
