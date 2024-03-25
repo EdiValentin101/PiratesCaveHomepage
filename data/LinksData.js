@@ -109,8 +109,16 @@ const webLinks = [
         on: false
     },
 	*/
+	// News section
+    {
+        title: "Sketchfab Ripper 1.18.3 EARLY ACCESS APPEAL!",
+        url: 'https://forms.gle/uRJgbyGNi45KBSAC8',
+        type: 'news',
+        icon: '/doc.png',
+        on: true
+    },
 	// Donate section
-	    {
+	{
         title: "Support Revetix (OG Developer)",
         url: 'https://www.paypal.com/donate/?hosted_button_id=78TUPKHTF3KYU',
         type: 'donate',
