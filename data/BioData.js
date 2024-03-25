@@ -11,8 +11,8 @@ const bioData = [
         descShow: true,
         subdesc: 'Our main social media links',
         subdescShow: true,
-        newProductUrl: 'https://3dicons.co',
-        newProduct: false,
+        newProductUrl: 'https://forms.gle/uRJgbyGNi45KBSAC8',
+        newProduct: true,
         author: 'HoReyModZ',
         authorURL: '',
         footerText: 'made by'
