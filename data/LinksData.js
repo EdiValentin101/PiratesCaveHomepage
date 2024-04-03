@@ -155,7 +155,7 @@ const webLinks = [
     },
 		{
         title: 'sfConfig Updater (for SFRipper)',
-        url: 'https://drive.google.com/file/d/1dXdRHajrTB0vwvla4nBK-JGW2XN1LCBW/view?usp=sharing',
+        url: 'https://drive.google.com/file/d/1zzk8iqVHUTuYLAGOiZcLo_LcEl0BF7iW/view?usp=sharing',
         type: 'content',
         icon: '/sfConfigUpdater.png',
         on: true
