@@ -140,20 +140,6 @@ const webLinks = [
         on: false
     },
 	{
-        title: 'Sketchfab Script (Models Only)',
-        url: 'https://openuserjs.org/scripts/PiratesCave/SketchfabDownloader_(Models_Only)',
-        type: 'content',
-        icon: '/script.png',
-        on: true
-    },
-	{
-        title: 'Sketchfab Script (Textures Only)',
-        url: 'https://openuserjs.org/scripts/PiratesCave/SketchfabDownloader_(Textures_Only)',
-        type: 'content',
-        icon: '/script.png',
-        on: true
-    },
-			{
         title: 'Sketchfab Ripper (LEGACY)',
         url: 'https://mega.nz/file/spsREIRR#afir129Rq7vsN3IggJHJ4BNFKrx7pc-yaYOxLIWyOJM',
         type: 'content',
@@ -165,6 +151,20 @@ const webLinks = [
         url: 'https://mega.nz/file/Z0VxzBxQ#h-6QaX5GcxaXUl9kLvE-QOfBGpECx1_xtQd30S2AmBQ',
         type: 'content',
         icon: '/sfConfigUpdater.png',
+        on: true
+    },
+	{
+        title: 'Sketchfab Script (Models Only)',
+        url: 'https://openuserjs.org/scripts/PiratesCave/SketchfabDownloader_(Models_Only)',
+        type: 'content',
+        icon: '/script.png',
+        on: true
+    },
+	{
+        title: 'Sketchfab Script (Textures Only)',
+        url: 'https://openuserjs.org/scripts/PiratesCave/SketchfabDownloader_(Textures_Only)',
+        type: 'content',
+        icon: '/script.png',
         on: true
     },
     // Install section
