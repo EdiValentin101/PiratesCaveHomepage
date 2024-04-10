@@ -153,6 +153,13 @@ const webLinks = [
         icon: '/script.png',
         on: true
     },
+			{
+        title: 'Sketchfab Ripper (LEGACY)',
+        url: 'https://mega.nz/file/spsREIRR#afir129Rq7vsN3IggJHJ4BNFKrx7pc-yaYOxLIWyOJM',
+        type: 'content',
+        icon: '/SketchfabRipperLEGACY.png',
+        on: true
+    },
 		{
         title: 'sfConfig Updater (for SFRipper)',
         url: 'https://mega.nz/file/Z0VxzBxQ#h-6QaX5GcxaXUl9kLvE-QOfBGpECx1_xtQd30S2AmBQ',
