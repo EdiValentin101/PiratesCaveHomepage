@@ -148,7 +148,7 @@ const webLinks = [
     },
 		{
         title: 'sfConfig Updater (for SFRipper)',
-        url: 'https://mega.nz/file/Z0VxzBxQ#h-6QaX5GcxaXUl9kLvE-QOfBGpECx1_xtQd30S2AmBQ',
+        url: 'https://mega.nz/file/Bh8USYbK#ImFXph_ILQnwYiuCc4V-156oaQrAHc5uJLLx9KmbikU',
         type: 'content',
         icon: '/sfConfigUpdater.png',
         on: true
