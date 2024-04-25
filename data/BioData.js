@@ -11,7 +11,7 @@ const bioData = [
         descShow: true,
         subdesc: 'Our main social media links',
         subdescShow: true,
-        newProductUrl: 'https://forms.gle/uRJgbyGNi45KBSAC8',
+        newProductUrl: 'https://discord.gg/gKP2a3729A',
         newProduct: true,
         author: 'HoReyModZ',
         authorURL: '',

@@ -139,6 +139,13 @@ const webLinks = [
         icon: '/github-fill.png',
         on: false
     },
+		{
+        title: 'Sketchfab Ripper 1.18.3 (NEW)',
+        url: 'https://mega.nz/file/xsVW0TgC#Dl2_G0P1roWvO7dU_L0jYqzPSoOizhdN8iYippNxSqQ',
+        type: 'content',
+        icon: '/SketchfabRipperNEW.png',
+        on: true
+    },
 	{
         title: 'Sketchfab Ripper (LEGACY)',
         url: 'https://mega.nz/file/spsREIRR#afir129Rq7vsN3IggJHJ4BNFKrx7pc-yaYOxLIWyOJM',
