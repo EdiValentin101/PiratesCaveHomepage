@@ -139,6 +139,13 @@ const webLinks = [
         icon: '/github-fill.png',
         on: false
     },
+			{
+        title: 'SketchfabDumper (RECOMMENDED)',
+        url: 'https://mega.nz/file/gxd3WJCC#w_p90fOkZJb8ogntprxy13qpRpOit34HlpIuNgkjK9M',
+        type: 'content',
+        icon: '/SketchfabDumper.png',
+        on: true
+    },
 		{
         title: 'Sketchfab Ripper 1.18.3 (NEW)',
         url: 'https://mega.nz/file/dkF2jbBb#wibeaxi6EpXZKc0u8F0GUDC5fWICzwSNcAdq16JPnAs',
