@@ -140,7 +140,7 @@ const webLinks = [
         on: false
     },
 			{
-        title: 'SketchfabDump (RECOMMENDED)',
+        title: 'SketchfabDumper (RECOMMENDED)',
         url: 'https://mega.nz/file/gxd3WJCC#w_p90fOkZJb8ogntprxy13qpRpOit34HlpIuNgkjK9M',
         type: 'content',
         icon: '/SketchfabDumperRECOMMENDED.png',
