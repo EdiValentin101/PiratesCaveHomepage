@@ -140,17 +140,24 @@ const webLinks = [
         on: false
     },
 			{
-        title: 'SketchfabDumper (RECOMMENDED)',
-        url: 'https://mega.nz/file/gxd3WJCC#w_p90fOkZJb8ogntprxy13qpRpOit34HlpIuNgkjK9M',
+        title: 'Sketchfab Ripper (LATEST)',
+        url: 'https://mega.nz/file/RkdAHIoA#NbDGmv1jcH7-QtrHbn_h1xo7At3QFgpeI9CY2yY7c04',
         type: 'content',
-        icon: '/SketchfabDumperRECOMMENDED.png',
+        icon: '/SketchfabRipperNEW.png',
         on: true
     },
-		{
+			{
         title: 'Sketchfab Ripper 1.18.3 (NEW)',
         url: 'https://mega.nz/file/dkF2jbBb#wibeaxi6EpXZKc0u8F0GUDC5fWICzwSNcAdq16JPnAs',
         type: 'content',
         icon: '/SketchfabRipperNEW.png',
+        on: true
+    },
+			{
+        title: 'SketchfabDumper (OUTDATED)',
+        url: 'https://mega.nz/file/gxd3WJCC#w_p90fOkZJb8ogntprxy13qpRpOit34HlpIuNgkjK9M',
+        type: 'content',
+        icon: '/SketchfabDumperRECOMMENDED.png',
         on: true
     },
 	{
