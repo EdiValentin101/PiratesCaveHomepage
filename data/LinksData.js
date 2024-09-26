@@ -140,7 +140,7 @@ const webLinks = [
         on: false
     },
 			{
-        title: 'Sketchfab Ripper 1.18.3 (LATEST)',
+        title: 'Sketchfab Ripper 1.18.3 (RECOMMENDED)',
         url: 'https://mega.nz/file/RkdAHIoA#NbDGmv1jcH7-QtrHbn_h1xo7At3QFgpeI9CY2yY7c04',
         type: 'content',
         icon: '/SketchfabRipperNEW.png',
